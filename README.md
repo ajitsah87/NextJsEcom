@@ -26,7 +26,7 @@
 ## Run Locally 💻
 
 ```bash
-git clone https://github.com/vishal-gg/Next.js-E-commerce.git
+git clone https://github.com/ajitsah87/NextJsEcom.git
 cd Next.js-E-commerce
 npm install
 npm run dev
